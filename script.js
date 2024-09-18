@@ -2,4 +2,10 @@ function sayHello() {
     return console.log("Hello");
 }
 
-sayHello()
+sayHello();
+
+function sayBye() {
+    return console.log("Bye");
+}
+
+sayBye();
