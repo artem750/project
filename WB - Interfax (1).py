@@ -5,7 +5,7 @@ import pyodbc
 # from datetime import datetime as dt
 # from datetime import date
 
-
+k=3
 InterfaxData = importlib.reload(sys.modules['ifxdata']).InterfaxData
 
 # create object from InterfaxData class
