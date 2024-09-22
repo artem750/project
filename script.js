@@ -9,3 +9,5 @@ function sayBye() {
 }
 
 sayBye();
+
+console.log('Hi');
