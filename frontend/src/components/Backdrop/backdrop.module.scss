@@ -1,0 +1,18 @@
+.backdrop {
+  background-color: #F4F6F8;
+  border-radius: 16px;
+  padding: 48px;
+  min-width: 40vw;
+  min-height: 40vh;
+  max-height: 80vh;
+  max-width: 80vw;
+  overflow-y: scroll;
+
+  &__result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+  }
+}
